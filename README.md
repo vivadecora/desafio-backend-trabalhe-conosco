@@ -1,6 +1,6 @@
 # Teste para candidatos à vaga de backend
 
-> [![Logo Viva Decora](https://cdn.rawgit.com/vivadecora/teste-backend/main/vivadecora-logo.svg)](https://www.vivadecora.com.br)
+> [![Logo Viva Decora](https://raw.githubusercontent.com/vivadecora/teste-backend/main/vivadecora-logo.svg)](https://www.vivadecora.com.br)
 >
 > Esse teste é público. Candidatos para vagas na Viva Decora devem responder este teste como parte do processo seletivo. A solução do teste deve estar disponível em um repositório online (Github, Bitbucket, etc) e o link deve ser encaminhado por **mensagem ou email**. Pode ser um repositório público ou privado com acesso para o avaliador. **Será desclassificado quem entregar a solução fazendo fork deste projeto ou criando uma issue no mesmo**.
 
